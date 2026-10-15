@@ -1,0 +1,4 @@
+base_config: configs/exp_baseline_1m.yaml
+variant: noise1_1m
+output_dir: runs/noise1_1m
+noise_std: 0.012

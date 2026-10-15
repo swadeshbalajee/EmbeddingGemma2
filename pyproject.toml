@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "text2modal-v1"
+version = "0.1.0"
+description = "Text-trained embedding-to-generation: V1-B / V1-C prefix conditioning"
+requires-python = ">=3.11"
+dependencies = []
+[tool.setuptools.packages.find]
+where = ["src"]
+[tool.pytest.ini_options]
+pythonpath = ["src"]

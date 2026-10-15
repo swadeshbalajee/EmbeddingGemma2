@@ -1,0 +1,388 @@
+{"time_utc": "2026-10-13T18:55:59.363529+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T18:56:59.363800+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T18:57:59.364072+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T18:58:26.740184+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T18:59:26.740382+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:00:26.740589+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:01:26.740864+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:02:26.741144+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:03:26.741362+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:04:26.741623+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:05:26.741820+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:06:26.742105+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:07:26.742313+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:08:26.742561+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:44:18.127715+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:45:18.127953+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:46:18.128177+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:47:18.128385+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:48:18.128651+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:49:18.128899+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:50:18.129103+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:51:18.129361+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:52:18.129563+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:53:18.129715+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:54:18.129956+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:55:18.130190+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:56:18.130445+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:57:18.130713+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:58:18.130893+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T19:59:18.131105+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T20:00:18.131322+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T20:01:18.131520+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T20:02:18.131752+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T20:03:18.131970+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T20:04:18.132182+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T20:05:18.132412+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T20:06:18.132636+00:00", "stage": "pilots", "state": "waiting", "complete": [false, false]}
+{"time_utc": "2026-10-13T20:07:18.132917+00:00", "stage": "pilots", "state": "waiting", "complete": [false, true]}
+{"time_utc": "2026-10-13T20:08:18.133141+00:00", "stage": "pilots", "state": "waiting", "complete": [false, true]}
+{"time_utc": "2026-10-13T20:09:18.133356+00:00", "stage": "pilots", "state": "waiting", "complete": [false, true]}
+{"time_utc": "2026-10-13T20:10:18.133633+00:00", "stage": "pilots", "state": "waiting", "complete": [false, true]}
+{"time_utc": "2026-10-13T20:11:18.133924+00:00", "stage": "pilots", "state": "waiting", "complete": [false, true]}
+{"time_utc": "2026-10-13T20:12:18.134150+00:00", "stage": "pilots", "state": "waiting", "complete": [false, true]}
+{"time_utc": "2026-10-13T20:13:18.134577+00:00", "stage": "pilots", "state": "completed"}
+{"time_utc": "2026-10-13T20:13:18.135372+00:00", "stage": "conditioning_v1b", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/eval_mixed_conditioning.py", "--config", "configs/v1b.yaml", "--checkpoint", "runs/v1b/checkpoints/final.pt"], "log": "logs/conditioning_v1b.log"}
+{"time_utc": "2026-10-13T20:13:18.137293+00:00", "stage": "conditioning_v1b", "state": "running", "pid": 82480}
+{"time_utc": "2026-10-13T20:14:18.137820+00:00", "stage": "conditioning_v1b", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T20:14:18.138459+00:00", "stage": "eval_noise1_200k", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/eval_checkpoint.py", "--config", "configs/exp_noise_200k.yaml", "--checkpoint", "runs/noise1_200k/checkpoints/final.pt", "--max-new-tokens", "128"], "log": "logs/eval_noise1_200k.log"}
+{"time_utc": "2026-10-13T20:14:18.140024+00:00", "stage": "eval_noise1_200k", "state": "running", "pid": 82659}
+{"time_utc": "2026-10-13T20:15:18.140553+00:00", "stage": "eval_noise1_200k", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T20:15:19.037525+00:00", "stage": "score_noise1_200k", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/score_mixed.py", "--preview", "runs/noise1_200k/previews/step_0003124.jsonl"], "log": "logs/score_noise1_200k.log"}
+{"time_utc": "2026-10-13T20:15:19.038435+00:00", "stage": "score_noise1_200k", "state": "running", "pid": 82861}
+{"time_utc": "2026-10-13T20:16:19.038907+00:00", "stage": "score_noise1_200k", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T20:16:19.039517+00:00", "stage": "conditioning_noise1_200k", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/eval_mixed_conditioning.py", "--config", "configs/exp_noise_200k.yaml", "--checkpoint", "runs/noise1_200k/checkpoints/final.pt"], "log": "logs/conditioning_noise1_200k.log"}
+{"time_utc": "2026-10-13T20:16:19.041994+00:00", "stage": "conditioning_noise1_200k", "state": "running", "pid": 82953}
+{"time_utc": "2026-10-13T20:17:19.042763+00:00", "stage": "conditioning_noise1_200k", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T20:17:19.044056+00:00", "stage": "eval_prefix8_200k", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/eval_checkpoint.py", "--config", "configs/exp_prefix8_200k.yaml", "--checkpoint", "runs/prefix8_200k/checkpoints/final.pt", "--max-new-tokens", "128"], "log": "logs/eval_prefix8_200k.log"}
+{"time_utc": "2026-10-13T20:17:19.046001+00:00", "stage": "eval_prefix8_200k", "state": "running", "pid": 83122}
+{"time_utc": "2026-10-13T20:18:19.046547+00:00", "stage": "eval_prefix8_200k", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T20:18:19.281209+00:00", "stage": "score_prefix8_200k", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/score_mixed.py", "--preview", "runs/prefix8_200k/previews/step_0003124.jsonl"], "log": "logs/score_prefix8_200k.log"}
+{"time_utc": "2026-10-13T20:18:19.281838+00:00", "stage": "score_prefix8_200k", "state": "running", "pid": 83300}
+{"time_utc": "2026-10-13T20:19:19.282173+00:00", "stage": "score_prefix8_200k", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T20:19:19.282780+00:00", "stage": "conditioning_prefix8_200k", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/eval_mixed_conditioning.py", "--config", "configs/exp_prefix8_200k.yaml", "--checkpoint", "runs/prefix8_200k/checkpoints/final.pt"], "log": "logs/conditioning_prefix8_200k.log"}
+{"time_utc": "2026-10-13T20:19:19.284583+00:00", "stage": "conditioning_prefix8_200k", "state": "running", "pid": 83393}
+{"time_utc": "2026-10-13T20:20:19.285160+00:00", "stage": "conditioning_prefix8_200k", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T20:20:19.288410+00:00", "stage": "comparison", "name": "200k", "path": "runs/comparison_200k.json"}
+{"time_utc": "2026-10-13T20:20:19.289227+00:00", "stage": "cache_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/cache_1m_parallel.py"], "log": "logs/cache_1m.log"}
+{"time_utc": "2026-10-13T20:20:19.291295+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:21:19.291740+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:22:19.292026+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:23:19.292309+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:24:19.292609+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:25:19.292897+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:26:19.293173+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:27:19.293671+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:28:19.293944+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:29:19.294222+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:30:19.294500+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:31:19.294781+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:32:19.295068+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:33:19.295343+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:34:19.295633+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:35:19.295906+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:36:19.296194+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:37:19.296466+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:38:19.296750+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:39:19.297031+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:40:19.297411+00:00", "stage": "cache_1m", "state": "running", "pid": 83568}
+{"time_utc": "2026-10-13T20:41:19.298331+00:00", "stage": "cache_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T20:41:19.299084+00:00", "stage": "train_baseline_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "-m", "torch.distributed.run", "--standalone", "--nproc_per_node=2", "-m", "t2m.train", "--config", "configs/exp_baseline_1m.yaml"], "log": "logs/train_baseline_1m.log"}
+{"time_utc": "2026-10-13T20:41:19.303085+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:42:19.303379+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:43:19.303586+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:44:19.303805+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:45:19.304112+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:46:19.304289+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:47:19.304501+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:48:19.304750+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:49:19.304965+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:50:19.305207+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:51:19.305426+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:52:19.305657+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:53:19.305839+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:54:19.306076+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:55:19.306247+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:56:19.306460+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:57:19.306721+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:58:19.306983+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T20:59:19.307161+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:00:19.307335+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:01:19.307546+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:02:19.307776+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:03:19.307998+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:04:19.308242+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:05:19.308486+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:06:19.308704+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:07:19.308882+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:08:19.309095+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:09:19.309322+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:10:19.309533+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:11:19.309782+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:12:19.309970+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:13:19.310193+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:14:19.310371+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:15:19.310591+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:16:19.310814+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:17:19.311075+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:18:19.311319+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:19:19.311559+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:20:19.311808+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:21:19.312049+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:22:19.312312+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:23:19.312481+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:24:19.312645+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:25:19.312846+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:26:19.313038+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:27:19.313280+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:28:19.313483+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:29:19.313686+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:30:19.313914+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:31:19.314159+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:32:19.314374+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:33:19.314584+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:34:19.314803+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:35:19.315003+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:36:19.315215+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:37:19.315455+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:38:19.315694+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:39:19.315916+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:40:19.316104+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:41:19.316272+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:42:19.316491+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:43:19.316699+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:44:19.316919+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:45:19.317160+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:46:19.317376+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:47:19.317573+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:48:19.317736+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:49:19.317957+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:50:19.318142+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:51:19.318316+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:52:19.318535+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:53:19.318752+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:54:19.318940+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:55:19.319157+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:56:19.319405+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:57:19.319630+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:58:19.319876+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T21:59:19.320065+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T22:00:19.320293+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T22:01:19.320532+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T22:02:19.320788+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T22:03:19.321070+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T22:04:19.321325+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T22:05:19.321548+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T22:06:19.321794+00:00", "stage": "train_baseline_1m", "state": "running", "pid": 84533}
+{"time_utc": "2026-10-13T22:07:23.398934+00:00", "stage": "train_baseline_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T22:07:23.399321+00:00", "stage": "eval_baseline_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/eval_checkpoint.py", "--config", "configs/exp_baseline_1m.yaml", "--checkpoint", "runs/baseline_1m/checkpoints/final.pt", "--max-new-tokens", "128"], "log": "logs/eval_baseline_1m.log"}
+{"time_utc": "2026-10-13T22:07:23.400356+00:00", "stage": "eval_baseline_1m", "state": "running", "pid": 88297}
+{"time_utc": "2026-10-13T22:08:23.400779+00:00", "stage": "eval_baseline_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T22:08:23.625622+00:00", "stage": "score_baseline_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/score_mixed.py", "--preview", "runs/baseline_1m/previews/step_0012500.jsonl"], "log": "logs/score_baseline_1m.log"}
+{"time_utc": "2026-10-13T22:08:23.626347+00:00", "stage": "score_baseline_1m", "state": "running", "pid": 88469}
+{"time_utc": "2026-10-13T22:09:23.626689+00:00", "stage": "score_baseline_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T22:09:23.627327+00:00", "stage": "conditioning_baseline_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/eval_mixed_conditioning.py", "--config", "configs/exp_baseline_1m.yaml", "--checkpoint", "runs/baseline_1m/checkpoints/final.pt"], "log": "logs/conditioning_baseline_1m.log"}
+{"time_utc": "2026-10-13T22:09:23.628891+00:00", "stage": "conditioning_baseline_1m", "state": "running", "pid": 88562}
+{"time_utc": "2026-10-13T22:10:23.629422+00:00", "stage": "conditioning_baseline_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T22:10:23.630406+00:00", "stage": "train_noise1_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "-m", "torch.distributed.run", "--standalone", "--nproc_per_node=2", "-m", "t2m.train", "--config", "configs/exp_noise_1m.yaml"], "log": "logs/train_noise1_1m.log"}
+{"time_utc": "2026-10-13T22:10:23.634958+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:11:23.635398+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:12:23.635689+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:13:23.635989+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:14:23.636199+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:15:23.636474+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:16:23.636780+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:17:23.637051+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:18:23.637338+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:19:23.637634+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:20:23.637913+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:21:23.638201+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:22:23.638485+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:23:23.638739+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:24:23.639027+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:25:23.639310+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:26:23.639590+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:27:23.639875+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:28:23.640152+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:29:23.640436+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:30:23.640734+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:31:23.641103+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:32:23.641329+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:33:23.641512+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:34:23.641685+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:35:23.641910+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:36:23.642145+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:37:23.642333+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:38:23.642497+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:39:23.642717+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:40:23.642962+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:41:23.643181+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:42:23.643414+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:43:23.643631+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:44:23.643845+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:45:23.644080+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:46:23.644257+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:47:23.644484+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:48:23.644720+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:49:23.644886+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:50:23.645077+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:51:23.645255+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:52:23.645475+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:53:23.645680+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:54:23.645841+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:55:23.646056+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:56:23.646290+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:57:23.646515+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:58:23.646716+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T22:59:23.646929+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:00:23.647140+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:01:23.647420+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:02:23.647723+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:03:23.647961+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:04:23.648248+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:05:23.648486+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:06:23.648768+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:07:23.649042+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:08:23.649224+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:09:23.649478+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:10:23.649767+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:11:23.650071+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:12:23.650388+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:13:23.650686+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:14:23.650928+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:15:23.651172+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:16:23.651466+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:17:23.651738+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:18:23.651967+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:19:23.652141+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:20:23.652356+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:21:23.652524+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:22:23.652715+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:23:23.652899+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:24:23.653079+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:25:23.653264+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:26:23.653524+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:27:23.653690+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:28:23.653843+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:29:23.654039+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:30:23.654217+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:31:23.654417+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:32:23.654604+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:33:23.654804+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:34:23.654978+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:35:23.655175+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:36:23.655351+00:00", "stage": "train_noise1_1m", "state": "running", "pid": 88736}
+{"time_utc": "2026-10-13T23:37:27.776329+00:00", "stage": "train_noise1_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T23:37:27.776525+00:00", "stage": "eval_noise1_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/eval_checkpoint.py", "--config", "configs/exp_noise_1m.yaml", "--checkpoint", "runs/noise1_1m/checkpoints/final.pt", "--max-new-tokens", "128"], "log": "logs/eval_noise1_1m.log"}
+{"time_utc": "2026-10-13T23:37:27.777056+00:00", "stage": "eval_noise1_1m", "state": "running", "pid": 96043}
+{"time_utc": "2026-10-13T23:38:27.777329+00:00", "stage": "eval_noise1_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T23:38:28.021795+00:00", "stage": "score_noise1_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/score_mixed.py", "--preview", "runs/noise1_1m/previews/step_0012500.jsonl"], "log": "logs/score_noise1_1m.log"}
+{"time_utc": "2026-10-13T23:38:28.022527+00:00", "stage": "score_noise1_1m", "state": "running", "pid": 96224}
+{"time_utc": "2026-10-13T23:39:28.022912+00:00", "stage": "score_noise1_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T23:39:28.023500+00:00", "stage": "conditioning_noise1_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/eval_mixed_conditioning.py", "--config", "configs/exp_noise_1m.yaml", "--checkpoint", "runs/noise1_1m/checkpoints/final.pt"], "log": "logs/conditioning_noise1_1m.log"}
+{"time_utc": "2026-10-13T23:39:28.025101+00:00", "stage": "conditioning_noise1_1m", "state": "running", "pid": 96356}
+{"time_utc": "2026-10-13T23:40:28.025531+00:00", "stage": "conditioning_noise1_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-13T23:40:28.026261+00:00", "stage": "train_prefix8_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "-m", "torch.distributed.run", "--standalone", "--nproc_per_node=2", "-m", "t2m.train", "--config", "configs/exp_prefix8_1m.yaml"], "log": "logs/train_prefix8_1m.log"}
+{"time_utc": "2026-10-13T23:40:28.029381+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:41:28.029669+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:42:28.029877+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:43:28.030111+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:44:28.030319+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:45:28.030516+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:46:28.030739+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:47:28.030981+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:48:28.031184+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:49:28.031390+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:50:28.031609+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:51:28.031787+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:52:28.031998+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:53:28.032222+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:54:28.032414+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:55:28.032575+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:56:28.032782+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:57:28.032978+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:58:28.033184+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-13T23:59:28.033434+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:00:28.033670+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:01:28.033844+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:02:28.034054+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:03:28.034227+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:04:28.034404+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:05:28.034586+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:06:28.034810+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:07:28.034986+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:08:28.035206+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:09:28.035397+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:10:28.035640+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:11:28.035869+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:12:28.036103+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:13:28.036350+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:14:28.036593+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:15:28.036834+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:16:28.037038+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:17:28.037204+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:18:28.037384+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:19:28.037563+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:20:28.037730+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:21:28.037910+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:22:28.038079+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:23:28.038253+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:24:28.038467+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:25:28.038682+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:26:28.038845+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:27:28.039011+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:28:28.039184+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:29:28.039416+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:30:28.039595+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:31:28.039763+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:32:28.039939+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:33:28.040152+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:34:28.040338+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:35:28.040582+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:36:28.040829+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:37:28.041007+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:38:28.041225+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:39:28.041468+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:40:28.041724+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:41:28.041965+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:42:28.042138+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:43:28.042353+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:44:28.042590+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:45:28.042772+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:46:28.042947+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:47:28.043171+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:48:28.043351+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:49:28.043568+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:50:28.043801+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:51:28.043985+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:52:28.044163+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:53:28.044383+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:54:28.044581+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:55:28.044796+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:56:28.045016+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:57:28.045201+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:58:28.045366+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T00:59:28.045539+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:00:28.045782+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:01:28.045970+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:02:28.046159+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:03:28.046455+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:04:28.046727+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:05:28.047027+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:06:28.047284+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:07:28.047548+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:08:28.047782+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:09:28.048075+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:10:28.048294+00:00", "stage": "train_prefix8_1m", "state": "running", "pid": 96669}
+{"time_utc": "2026-10-14T01:11:32.425061+00:00", "stage": "train_prefix8_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-14T01:11:32.425318+00:00", "stage": "eval_prefix8_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/eval_checkpoint.py", "--config", "configs/exp_prefix8_1m.yaml", "--checkpoint", "runs/prefix8_1m/checkpoints/final.pt", "--max-new-tokens", "128"], "log": "logs/eval_prefix8_1m.log"}
+{"time_utc": "2026-10-14T01:11:32.425771+00:00", "stage": "eval_prefix8_1m", "state": "running", "pid": 103285}
+{"time_utc": "2026-10-14T01:12:32.426117+00:00", "stage": "eval_prefix8_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-14T01:12:32.684917+00:00", "stage": "score_prefix8_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/score_mixed.py", "--preview", "runs/prefix8_1m/previews/step_0012500.jsonl"], "log": "logs/score_prefix8_1m.log"}
+{"time_utc": "2026-10-14T01:12:32.685690+00:00", "stage": "score_prefix8_1m", "state": "running", "pid": 103469}
+{"time_utc": "2026-10-14T01:13:32.686021+00:00", "stage": "score_prefix8_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-14T01:13:32.686597+00:00", "stage": "conditioning_prefix8_1m", "state": "started", "command": ["/home/swadesh/miniconda3/envs/text2modal/bin/python", "-u", "scripts/eval_mixed_conditioning.py", "--config", "configs/exp_prefix8_1m.yaml", "--checkpoint", "runs/prefix8_1m/checkpoints/final.pt"], "log": "logs/conditioning_prefix8_1m.log"}
+{"time_utc": "2026-10-14T01:13:32.688373+00:00", "stage": "conditioning_prefix8_1m", "state": "running", "pid": 103562}
+{"time_utc": "2026-10-14T01:14:32.688922+00:00", "stage": "conditioning_prefix8_1m", "state": "completed", "exit_code": 0}
+{"time_utc": "2026-10-14T01:14:32.690680+00:00", "stage": "comparison", "name": "1m", "path": "runs/comparison_1m.json"}
+{"time_utc": "2026-10-14T01:14:32.690808+00:00", "stage": "pipeline", "state": "completed"}

@@ -1,0 +1,41 @@
+variant: v1b
+seed: 42
+encoder_id: google/embeddinggemma-2
+decoder_id: HuggingFaceTB/SmolLM2-135M
+train_cache: data/cache/train
+val_cache: data/cache/val
+eval_cache: data/cache/eval_mixed
+output_dir: runs/v1b
+max_seq_len: 256  # prefix + BOS + <=254 targets incl EOS
+adapter_hidden: 1024
+noise_std: 0.0
+rank_lambda: 0.2
+rank_margin: 0.2
+batch_size_per_gpu: 16
+grad_accum_steps: 4
+num_workers: 4
+epochs: 2
+max_steps: 0  # 0 = full epochs
+adapter_warmup_steps: 500
+lr_adapter: 0.0002
+lr_decoder: 0.00002
+weight_decay: 0.01
+warmup_ratio: 0.03
+grad_clip: 1.0
+log_every: 20
+text_eval_every: 100
+media_eval_every: 250
+checkpoint_every: 500
+text_eval_batches: 8
+media_eval_limit: 32
+max_new_tokens: 128
+repetition_penalty: 1.08
+# Activation attention: SDPA will use FlashAttention kernels where supported.
+attn_implementation: sdpa
+torch_compile: false
+gradient_checkpointing: false
+compile_mode: default
+tf32: true
+wandb: false
+wandb_project: text2modal-v1
+resume: null

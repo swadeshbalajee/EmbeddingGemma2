@@ -1,0 +1,4 @@
+variant: v1c
+base_config: configs/v1b.yaml
+output_dir: runs/v1c
+noise_std: 0.005  # added independently to BOTH positive and negative normalized 768d vectors

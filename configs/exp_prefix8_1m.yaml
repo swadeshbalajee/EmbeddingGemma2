@@ -1,0 +1,5 @@
+base_config: configs/exp_baseline_1m.yaml
+variant: prefix8_1m
+output_dir: runs/prefix8_1m
+noise_std: 0.012
+num_prefix_tokens: 8

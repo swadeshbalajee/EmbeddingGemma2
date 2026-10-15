@@ -1,0 +1,66 @@
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+{
+  "checkpoint": "runs/v1b/checkpoints/final.pt",
+  "step": 3124,
+  "note": "Teacher-forced token-normalized log likelihood; shuffled embedding is the next fixed item within modality. Images average over five captions; video references are coarse action labels.",
+  "image": {
+    "count": 20,
+    "correct_minus_shuffled": 1.66204,
+    "correct_minus_zero": -1.59837,
+    "correct_beats_shuffled": 0.85,
+    "correct_beats_zero": 0.0,
+    "correct_minus_shuffled_bootstrap_ci95": [
+      1.06074,
+      2.29177
+    ],
+    "correct_minus_zero_bootstrap_ci95": [
+      -1.94709,
+      -1.27917
+    ]
+  },
+  "audio": {
+    "count": 20,
+    "correct_minus_shuffled": 0.99671,
+    "correct_minus_zero": 3.14973,
+    "correct_beats_shuffled": 0.9,
+    "correct_beats_zero": 1.0,
+    "correct_minus_shuffled_bootstrap_ci95": [
+      0.65153,
+      1.3864
+    ],
+    "correct_minus_zero_bootstrap_ci95": [
+      2.51722,
+      3.8014
+    ]
+  },
+  "video": {
+    "count": 20,
+    "correct_minus_shuffled": 1.44146,
+    "correct_minus_zero": 2.76789,
+    "correct_beats_shuffled": 0.8,
+    "correct_beats_zero": 1.0,
+    "correct_minus_shuffled_bootstrap_ci95": [
+      0.81112,
+      2.12746
+    ],
+    "correct_minus_zero_bootstrap_ci95": [
+      2.26664,
+      3.24419
+    ]
+  },
+  "text": {
+    "count": 20,
+    "correct_minus_shuffled": 0.28614,
+    "correct_minus_zero": 0.984,
+    "correct_beats_shuffled": 0.95,
+    "correct_beats_zero": 1.0,
+    "correct_minus_shuffled_bootstrap_ci95": [
+      0.1812,
+      0.40594
+    ],
+    "correct_minus_zero_bootstrap_ci95": [
+      0.82899,
+      1.13651
+    ]
+  }
+}

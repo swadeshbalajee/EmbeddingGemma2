@@ -1,0 +1,3 @@
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/272 [00:00<?, ?it/s]Loading weights: 100%|██████████| 272/272 [00:00<00:00, 7167.14it/s]
+Wrote 80 rows to /home/swadesh/Documents/Github/GoogleEmbeddingModel/runs/v1b/previews/step_0003124.jsonl

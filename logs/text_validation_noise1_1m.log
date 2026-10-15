@@ -1,0 +1,21 @@
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/272 [00:00<?, ?it/s]Loading weights: 100%|██████████| 272/272 [00:00<00:00, 8890.39it/s]
+{
+  "checkpoint": "runs/noise1_1m/checkpoints/final.pt",
+  "step": 12500,
+  "validation_examples": 1024,
+  "metrics": {
+    "ce": 1.7603876860812306,
+    "ppl": 6.208812697798511,
+    "delta_cond": 8.9243473559618,
+    "rank_acc": 1.0,
+    "delta_zero": 9.753769997507334,
+    "hard_negative_delta": 6.764466743916273,
+    "hard_negative_rank_acc": 1.0,
+    "positive_logprob": -1.7603876860812306,
+    "shuffled_logprob": -10.68473494425416,
+    "zero_logprob": -11.514157712459564,
+    "early_delta_cond": 5.394741028547287,
+    "late_delta_cond": 10.558801621198654
+  }
+}

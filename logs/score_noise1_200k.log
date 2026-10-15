@@ -1,0 +1,38 @@
+{
+  "summary": "runs/noise1_200k/analysis/step_0003124/summary.json",
+  "selected": "runs/noise1_200k/analysis/step_0003124/selected_examples.jsonl",
+  "modalities": {
+    "image": {
+      "count": 20,
+      "mean_reference_cosine": 0.7403,
+      "mean_source_cosine": 0.6743,
+      "source_retrieval_at_1": 0.9,
+      "mean_reference_token_f1": 0.2985,
+      "mean_generated_words": 5.1
+    },
+    "audio": {
+      "count": 20,
+      "mean_reference_cosine": 0.7097,
+      "mean_source_cosine": 0.7306,
+      "source_retrieval_at_1": 0.45,
+      "mean_reference_token_f1": 0.1792,
+      "mean_generated_words": 7.6
+    },
+    "video": {
+      "count": 20,
+      "mean_reference_cosine": 0.7221,
+      "mean_source_cosine": 0.6675,
+      "source_retrieval_at_1": 0.65,
+      "mean_reference_token_f1": 0.1345,
+      "mean_generated_words": 5.2
+    },
+    "text": {
+      "count": 20,
+      "mean_reference_cosine": 0.705,
+      "mean_source_cosine": 0.7044,
+      "source_retrieval_at_1": 0.75,
+      "mean_reference_token_f1": 0.2026,
+      "mean_generated_words": 61.1
+    }
+  }
+}

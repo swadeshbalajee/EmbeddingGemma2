@@ -1,0 +1,25 @@
+{'time': 1791922819.3689854, 'status': [None, None], 'rows': [0, 0]}
+{'time': 1791922879.3709474, 'status': [None, None], 'rows': [44, 44]}
+{'time': 1791922939.3716455, 'status': [None, None], 'rows': [91, 99]}
+{'time': 1791922999.3719697, 'status': [None, None], 'rows': [106, 141]}
+{'time': 1791923059.3722556, 'status': [None, None], 'rows': [114, 178]}
+{'time': 1791923119.3725536, 'status': [None, None], 'rows': [123, 189]}
+{'time': 1791923179.3728611, 'status': [None, None], 'rows': [140, 197]}
+{'time': 1791923239.3731074, 'status': [None, None], 'rows': [159, 206]}
+{'time': 1791923299.3734024, 'status': [None, None], 'rows': [178, 215]}
+{'time': 1791923359.3736987, 'status': [None, None], 'rows': [197, 223]}
+{'time': 1791923419.3739989, 'status': [None, None], 'rows': [217, 232]}
+{'time': 1791923479.374245, 'status': [None, None], 'rows': [235, 240]}
+{'time': 1791923539.3744996, 'status': [None, None], 'rows': [254, 249]}
+{'time': 1791923599.3747876, 'status': [None, None], 'rows': [273, 257]}
+{'time': 1791923659.375089, 'status': [None, None], 'rows': [292, 266]}
+{'time': 1791923719.375399, 'status': [None, None], 'rows': [311, 275]}
+{'time': 1791923779.3757398, 'status': [0, None], 'rows': [312, 284]}
+{'time': 1791923839.3760962, 'status': [0, None], 'rows': [312, 292]}
+{'time': 1791923899.3764262, 'status': [0, None], 'rows': [312, 301]}
+{'time': 1791923959.3767567, 'status': [0, None], 'rows': [312, 310]}
+Merged embeddings (1000000, 768)
+Merged tokens (1000000, 158)
+Merged lengths (1000000,)
+Encoding 10K validation rows
+Ready: data/cache/train_1m and data/cache/val_1m

@@ -1,0 +1,14 @@
+base_config: configs/v1b.yaml
+variant: prefix8
+output_dir: runs/prefix8_200k
+noise_std: 0.012
+num_prefix_tokens: 8
+batch_size_per_gpu: 8
+grad_accum_steps: 16
+num_workers: 2
+checkpoint_every: 5000
+save_optimizer_final: false
+text_eval_every: 500
+media_eval_every: 500
+media_eval_limit: 80
+log_every: 25

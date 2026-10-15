@@ -1,0 +1,39 @@
+Loading weights:   0%|          | 0/413 [00:00<?, ?it/s]Loading weights: 100%|██████████| 413/413 [00:00<00:00, 15379.16it/s]
+{
+  "summary": "runs/prefix8_1m/analysis/step_0005000/summary.json",
+  "selected": "runs/prefix8_1m/analysis/step_0005000/selected_examples.jsonl",
+  "modalities": {
+    "image": {
+      "count": 20,
+      "mean_reference_cosine": 0.7606,
+      "mean_source_cosine": 0.6987,
+      "source_retrieval_at_1": 0.95,
+      "mean_reference_token_f1": 0.3035,
+      "mean_generated_words": 5.2
+    },
+    "audio": {
+      "count": 20,
+      "mean_reference_cosine": 0.7743,
+      "mean_source_cosine": 0.8028,
+      "source_retrieval_at_1": 0.75,
+      "mean_reference_token_f1": 0.3078,
+      "mean_generated_words": 15.8
+    },
+    "video": {
+      "count": 20,
+      "mean_reference_cosine": 0.7401,
+      "mean_source_cosine": 0.6864,
+      "source_retrieval_at_1": 0.8,
+      "mean_reference_token_f1": 0.0883,
+      "mean_generated_words": 7.0
+    },
+    "text": {
+      "count": 20,
+      "mean_reference_cosine": 0.7922,
+      "mean_source_cosine": 0.7915,
+      "source_retrieval_at_1": 1.0,
+      "mean_reference_token_f1": 0.2409,
+      "mean_generated_words": 89.1
+    }
+  }
+}

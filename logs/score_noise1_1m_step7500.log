@@ -1,0 +1,39 @@
+Loading weights:   0%|          | 0/413 [00:00<?, ?it/s]Loading weights: 100%|██████████| 413/413 [00:00<00:00, 14166.35it/s]
+{
+  "summary": "runs/noise1_1m/analysis/step_0007500/summary.json",
+  "selected": "runs/noise1_1m/analysis/step_0007500/selected_examples.jsonl",
+  "modalities": {
+    "image": {
+      "count": 20,
+      "mean_reference_cosine": 0.7561,
+      "mean_source_cosine": 0.688,
+      "source_retrieval_at_1": 0.95,
+      "mean_reference_token_f1": 0.3082,
+      "mean_generated_words": 5.5
+    },
+    "audio": {
+      "count": 20,
+      "mean_reference_cosine": 0.7641,
+      "mean_source_cosine": 0.7871,
+      "source_retrieval_at_1": 0.9,
+      "mean_reference_token_f1": 0.2206,
+      "mean_generated_words": 11.3
+    },
+    "video": {
+      "count": 20,
+      "mean_reference_cosine": 0.7206,
+      "mean_source_cosine": 0.6814,
+      "source_retrieval_at_1": 0.75,
+      "mean_reference_token_f1": 0.0926,
+      "mean_generated_words": 5.7
+    },
+    "text": {
+      "count": 20,
+      "mean_reference_cosine": 0.7849,
+      "mean_source_cosine": 0.7842,
+      "source_retrieval_at_1": 1.0,
+      "mean_reference_token_f1": 0.2415,
+      "mean_generated_words": 67.8
+    }
+  }
+}

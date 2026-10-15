@@ -1,0 +1,38 @@
+{
+  "summary": "runs/prefix8_200k/analysis/step_0003124/summary.json",
+  "selected": "runs/prefix8_200k/analysis/step_0003124/selected_examples.jsonl",
+  "modalities": {
+    "image": {
+      "count": 20,
+      "mean_reference_cosine": 0.7533,
+      "mean_source_cosine": 0.6771,
+      "source_retrieval_at_1": 0.95,
+      "mean_reference_token_f1": 0.339,
+      "mean_generated_words": 5.1
+    },
+    "audio": {
+      "count": 20,
+      "mean_reference_cosine": 0.7653,
+      "mean_source_cosine": 0.7825,
+      "source_retrieval_at_1": 0.75,
+      "mean_reference_token_f1": 0.2602,
+      "mean_generated_words": 9.4
+    },
+    "video": {
+      "count": 20,
+      "mean_reference_cosine": 0.7202,
+      "mean_source_cosine": 0.6847,
+      "source_retrieval_at_1": 0.55,
+      "mean_reference_token_f1": 0.1481,
+      "mean_generated_words": 5.8
+    },
+    "text": {
+      "count": 20,
+      "mean_reference_cosine": 0.7637,
+      "mean_source_cosine": 0.763,
+      "source_retrieval_at_1": 0.95,
+      "mean_reference_token_f1": 0.2341,
+      "mean_generated_words": 75.8
+    }
+  }
+}

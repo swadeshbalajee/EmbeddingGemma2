@@ -1,0 +1,39 @@
+Loading weights:   0%|          | 0/413 [00:00<?, ?it/s]Loading weights: 100%|██████████| 413/413 [00:00<00:00, 11532.56it/s]
+{
+  "summary": "runs/prefix8_1m/analysis/step_0007500/summary.json",
+  "selected": "runs/prefix8_1m/analysis/step_0007500/selected_examples.jsonl",
+  "modalities": {
+    "image": {
+      "count": 20,
+      "mean_reference_cosine": 0.803,
+      "mean_source_cosine": 0.7145,
+      "source_retrieval_at_1": 1.0,
+      "mean_reference_token_f1": 0.3608,
+      "mean_generated_words": 5.2
+    },
+    "audio": {
+      "count": 20,
+      "mean_reference_cosine": 0.7787,
+      "mean_source_cosine": 0.8017,
+      "source_retrieval_at_1": 0.8,
+      "mean_reference_token_f1": 0.299,
+      "mean_generated_words": 17.2
+    },
+    "video": {
+      "count": 20,
+      "mean_reference_cosine": 0.7198,
+      "mean_source_cosine": 0.6853,
+      "source_retrieval_at_1": 0.7,
+      "mean_reference_token_f1": 0.0826,
+      "mean_generated_words": 6.5
+    },
+    "text": {
+      "count": 20,
+      "mean_reference_cosine": 0.7919,
+      "mean_source_cosine": 0.7913,
+      "source_retrieval_at_1": 1.0,
+      "mean_reference_token_f1": 0.2479,
+      "mean_generated_words": 87.2
+    }
+  }
+}

@@ -1,0 +1,16 @@
+variant: v1b
+base_config: configs/v1b.yaml
+output_dir: runs/smoke
+max_steps: 20
+adapter_warmup_steps: 4
+batch_size_per_gpu: 2
+grad_accum_steps: 1
+num_workers: 0
+log_every: 1
+text_eval_every: 5
+media_eval_every: 5
+checkpoint_every: 10
+text_eval_batches: 2
+media_eval_limit: 4
+max_new_tokens: 32
+wandb: false
